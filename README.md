@@ -36,6 +36,7 @@
 
 ### Motion Segmentation
 * [EMSGC: Event-based Motion Segmentation with Spatio-Temporal Graph Cuts (TNNLS 2021)](https://github.com/HKUST-Aerial-Robotics/EMSGC) <img src="https://img.shields.io/github/stars/HKUST-Aerial-Robotics/EMSGC?style=social"/>
+* [Unofficial version of EMSMC (ICCV 2019)](https://github.com/theodorun/Implementation-Event-Based-Motion-Segmentation-by-Motion-Compensation) <img src="https://img.shields.io/github/stars/theodorun/Implementation-Event-Based-Motion-Segmentation-by-Motion-Compensation?style=social"/>
 * [Slip detection (WACV 2025)](https://github.com/tub-rip/event_slip) <img src="https://img.shields.io/github/stars/tub-rip/event_slip?style=social"/>
 
 ### Instance Segmentation
@@ -61,6 +62,7 @@
 * [EPBA: Event-based Photometric Bundle Adjustment (2025)](https://github.com/tub-rip/epba) <img src="https://img.shields.io/github/stars/tub-rip/epba?style=social"/>
 * [EMBA: Event-based Mosaicing Bundle Adjustment (ECCV 2024)](https://github.com/tub-rip/emba) <img src="https://img.shields.io/github/stars/tub-rip/emba?style=social"/>
 * [CMax-SLAM (TRO 2024)](https://github.com/tub-rip/cmax_slam) <img src="https://img.shields.io/github/stars/tub-rip/cmax_slam?style=social"/>
+* [Event Alignment using Poisson Point Process (ICCV 2021)](https://github.com/pbideau/Event-ST-PPP) <img src="https://img.shields.io/github/stars/pbideau/Event-ST-PPP?style=social"/>
 
 ### Arbitrary motion (6-DOF)
 * [Visual Stabilization (RAL 2024)](https://github.com/tub-rip/visual_stabilization) <img src="https://img.shields.io/github/stars/tub-rip/events_viz?style=social"/>
