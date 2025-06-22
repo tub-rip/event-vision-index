@@ -15,19 +15,23 @@
 * [Convert events from HDF5 to ROS bag](https://github.com/tub-rip/events_h52bag) <img src="https://img.shields.io/github/stars/tub-rip/events_h52bag?style=social"/>
 * [Event visualization (TPAMI 2022)](https://github.com/tub-rip/events_viz) <img src="https://img.shields.io/github/stars/tub-rip/events_viz?style=social"/>
 
-## Optical Flow Estimation / Point Tracking
-* [E2FAI: Events to Optical Flow and Intensity (2025)](https://github.com/tub-rip/e2fai) <img src="https://img.shields.io/github/stars/tub-rip/e2fai?style=social"/>
-* [ETAP: Event-based Tracking of Any Point (CVPR 2025)](https://github.com/tub-rip/ETAP) <img src="https://img.shields.io/github/stars/tub-rip/ETAP?style=social"/>
+## Optical Flow Estimation
+* [E2FAI: Events to Flow And Intensity (2025)](https://github.com/tub-rip/e2fai) <img src="https://img.shields.io/github/stars/tub-rip/e2fai?style=social"/>
 * [Motion-prior Contrast Maximization (ECCV 2024)](https://github.com/tub-rip/MotionPriorCMax) <img src="https://img.shields.io/github/stars/tub-rip/MotionPriorCMax?style=social"/>
 * [Secrets of Event-based Optical Flow (ECCV 2022, TPAMI 2024)](https://github.com/tub-rip/event_based_optical_flow) <img src="https://img.shields.io/github/stars/tub-rip/event_based_optical_flow?style=social"/>
 * [Event Collapse in Contrast Maximization Frameworks (AISY 2023)](https://github.com/tub-rip/event_collapse) <img src="https://img.shields.io/github/stars/tub-rip/event_collapse?style=social"/>
 * [Global flow using Contrast Maximization (CVPR 2018)](https://github.com/tub-rip/dvs_global_flow_skeleton) <img src="https://img.shields.io/github/stars/tub-rip/dvs_global_flow_skeleton?style=social"/>
 
+## Feature / Point Tracking
+* [ETAP: Event-based Tracking of Any Point (CVPR 2025)](https://github.com/tub-rip/ETAP) <img src="https://img.shields.io/github/stars/tub-rip/ETAP?style=social"/>
+* [EKLT: Asynchronous, Photometric Feature Tracking using Events and Frames (ECCV 2018, IJCV 2019)](https://github.com/uzh-rpg/rpg_eklt) <img src="https://img.shields.io/github/stars/uzh-rpg/rpg_eklt?style=social"/>
+
 ## Schileren Imaging
 * [EBOS: Event-based Background-Oriented Schlieren (TPAMI 2023)](https://github.com/tub-rip/event_based_bos) <img src="https://img.shields.io/github/stars/tub-rip/event_based_bos?style=social"/>
   
-## Image Reconstruction
+## Image Reconstruction / Video Synthesis
 * [EVILIP: Event-based Image Reconstruction as a Linear Inverse Problem (TPAMI 2022)](https://github.com/tub-rip/event_based_image_rec_inverse_problem) <img src="https://img.shields.io/github/stars/tub-rip/event_based_image_rec_inverse_problem?style=social"/>
+* [ContinuityCam: Event-based Continuous Color Video Decompression (CVPRW 2025)](https://www.cis.upenn.edu/~ziyunw/continuity_cam/) 
 
 ## Denoising
 * [ESMD: Simultaneous Motion And Noise Estimation (2025)](https://github.com/tub-rip/esmd) <img src="https://img.shields.io/github/stars/tub-rip/esmd?style=social"/>
@@ -35,9 +39,10 @@
 ## Segmentation
 
 ### Motion Segmentation
-* [EMSGC: Event-based Motion Segmentation with Spatio-Temporal Graph Cuts (TNNLS 2021)](https://github.com/HKUST-Aerial-Robotics/EMSGC) <img src="https://img.shields.io/github/stars/HKUST-Aerial-Robotics/EMSGC?style=social"/>
-* [Unofficial version of EMSMC (ICCV 2019)](https://github.com/theodorun/Implementation-Event-Based-Motion-Segmentation-by-Motion-Compensation) <img src="https://img.shields.io/github/stars/theodorun/Implementation-Event-Based-Motion-Segmentation-by-Motion-Compensation?style=social"/>
+* [Motion Segmentation by Variational Contrast Maximization (CVPRW 2025)]() <img src="https://img.shields.io/github/stars/aoki-media-lab/event_based_segmentation_vcmax?style=social"/>
 * [Slip detection (WACV 2025)](https://github.com/tub-rip/event_slip) <img src="https://img.shields.io/github/stars/tub-rip/event_slip?style=social"/>
+* [Unofficial version of EMSMC (ICCV 2019)](https://github.com/theodorun/Implementation-Event-Based-Motion-Segmentation-by-Motion-Compensation) <img src="https://img.shields.io/github/stars/theodorun/Implementation-Event-Based-Motion-Segmentation-by-Motion-Compensation?style=social"/>
+* [EMSGC: Event-based Motion Segmentation with Spatio-Temporal Graph Cuts (TNNLS 2021)](https://github.com/HKUST-Aerial-Robotics/EMSGC) <img src="https://img.shields.io/github/stars/HKUST-Aerial-Robotics/EMSGC?style=social"/>
 
 ### Instance Segmentation
 * [MouseSIS: Space-Time Instance Segmentation of Mice (ECCVW 2024)](https://github.com/tub-rip/MouseSIS) <img src="https://img.shields.io/github/stars/tub-rip/MouseSIS?style=social"/>
@@ -65,11 +70,13 @@
 * [Event Alignment using Poisson Point Process (ICCV 2021)](https://github.com/pbideau/Event-ST-PPP) <img src="https://img.shields.io/github/stars/pbideau/Event-ST-PPP?style=social"/>
 
 ### Arbitrary motion (6-DOF)
-* [Visual Stabilization (RAL 2024)](https://github.com/tub-rip/visual_stabilization) <img src="https://img.shields.io/github/stars/tub-rip/events_viz?style=social"/>
+* [Visual Stabilization (RAL 2024)](https://github.com/tub-rip/visual_stabilization) <img src="https://img.shields.io/github/stars/tub-rip/visual_stabilization?style=social"/>
+* [Motion and Structure from Event-based Normal Flow (ECCV 2024)](https://nail-hnu.github.io/EvLinearSolver/) <img src="https://img.shields.io/github/stars/NAIL-HNU/EvLinearSolver?style=social"/>
 * [ES-PTAM: Event-based Stereo Parallel Tracking and Mapping (ECCVW 2024)](https://github.com/tub-rip/ES-PTAM) <img src="https://img.shields.io/github/stars/tub-rip/ES-PTAM?style=social"/>
 * [EDS: Event-aided Direct Sparse Odometry (CVPR 2022)](https://rpg.ifi.uzh.ch/eds.html) <img src="https://img.shields.io/github/stars/uzh-rpg/eds-buildconf?style=social"/>
 * [ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras (TRO 2025)](https://github.com/NAIL-HNU/ESVO2) <img src="https://img.shields.io/github/stars/NAIL-HNU/ESVO2?style=social"/>
 * [ESVO: Event-based Stereo Visual Odometry (TRO 2021)](https://github.com/HKUST-Aerial-Robotics/ESVO) <img src="https://img.shields.io/github/stars/HKUST-Aerial-Robotics/ESVO?style=social"/>
+* [Event-based, Direct Camera Tracking from a Photometric 3D Map](https://rpg.ifi.uzh.ch/direct_event_camera_tracking/index.html) <img src="https://img.shields.io/github/stars/uzh-rpg/direct_event_camera_tracker?style=social"/>
 * [EVO: Event based Visual Odometry (RAL 2017)](https://github.com/uzh-rpg/rpg_dvs_evo_open/) <img src="https://img.shields.io/github/stars/uzh-rpg/rpg_dvs_evo_open?style=social"/>
 
 ## Workshops
