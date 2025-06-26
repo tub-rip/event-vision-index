@@ -16,7 +16,7 @@
 * [Event visualization (TPAMI 2022)](https://github.com/tub-rip/events_viz) <img src="https://img.shields.io/github/stars/tub-rip/events_viz?style=social"/>
 
 ## Optical Flow Estimation
-* [E2FAI: **E**vents to **F**low **A**nd **I**ntensity (2025)](https://github.com/tub-rip/e2fai) <img src="https://img.shields.io/github/stars/tub-rip/e2fai?style=social"/>
+* [E2FAI: **E**vents to **F**low **A**nd **I**ntensity (ICCV 2025)](https://github.com/tub-rip/e2fai) <img src="https://img.shields.io/github/stars/tub-rip/e2fai?style=social"/>
 * [Motion-prior Contrast Maximization (ECCV 2024)](https://github.com/tub-rip/MotionPriorCMax) <img src="https://img.shields.io/github/stars/tub-rip/MotionPriorCMax?style=social"/>
 * [Secrets of Event-based Optical Flow (ECCV 2022, TPAMI 2024)](https://github.com/tub-rip/event_based_optical_flow) <img src="https://img.shields.io/github/stars/tub-rip/event_based_optical_flow?style=social"/>
 * [Event Collapse in Contrast Maximization Frameworks (AISY 2022)](https://github.com/tub-rip/event_collapse) <img src="https://img.shields.io/github/stars/tub-rip/event_collapse?style=social"/>
@@ -34,7 +34,7 @@
 * [ContinuityCam: Event-based Continuous Color Video Decompression (CVPRW 2025)](https://www.cis.upenn.edu/~ziyunw/continuity_cam/) 
 
 ## Denoising
-* [ESMD: Simultaneous Motion and Noise Estimation (2025)](https://github.com/tub-rip/esmd) <img src="https://img.shields.io/github/stars/tub-rip/esmd?style=social"/>
+* [ESMD: Simultaneous Motion and Noise Estimation (ICCV 2025)](https://github.com/tub-rip/esmd) <img src="https://img.shields.io/github/stars/tub-rip/esmd?style=social"/>
 
 ## Segmentation
 
