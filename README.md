@@ -7,7 +7,7 @@
 
 ## Review
 * [Survey paper (TPAMI 2022)](https://arxiv.org/pdf/1904.08405)
-* [Survey on Event-based Stereo (2025)](https://arxiv.org/pdf/2409.17680)
+* [Survey on Event-based Stereo (TPAMI 2025)](https://arxiv.org/pdf/2409.17680)
 * [Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources) <img src="https://img.shields.io/github/stars/uzh-rpg/event-based_vision_resources?style=social"/>
 
 ## Pre-processing 
@@ -53,7 +53,7 @@
 ## Depth Estimation
 
 ### Stereo Depth Estimation
-* [Survey on Event-based Stereo Depth Estimation (2025)](https://github.com/tub-rip/EventStereoSurvey) <img src="https://img.shields.io/github/stars/tub-rip/EventStereoSurvey?style=social"/>
+* [Survey on Event-based Stereo Depth Estimation (TPAMI 2025)](https://github.com/tub-rip/EventStereoSurvey) <img src="https://img.shields.io/github/stars/tub-rip/EventStereoSurvey?style=social"/>
 * [DERD-Net: Learning **D**epth from **E**vent-based **R**ay **D**ensities (2025)](https://arxiv.org/pdf/2504.15863) <img src="https://img.shields.io/github/stars/tub-rip/derd-net?style=social"/>
 * [MC-EMVS: **M**ulti-**C**amera **E**vent-based **M**ulti-**V**iew **S**tereo (AISY 2022)](https://github.com/tub-rip/dvs_mcemvs) <img src="https://img.shields.io/github/stars/tub-rip/dvs_mcemvs?style=social"/>
 
