@@ -39,7 +39,7 @@
 ## Segmentation
 
 ### Motion Segmentation
-* [Motion Segmentation by Variational Contrast Maximization (CVPRW 2025)]() <img src="https://img.shields.io/github/stars/aoki-media-lab/event_based_segmentation_vcmax?style=social"/>
+* [Motion Segmentation by Variational Contrast Maximization (CVPRW 2025)](https://img.shields.io/github/stars/aoki-media-lab/event_based_segmentation_vcmax) <img src="https://img.shields.io/github/stars/aoki-media-lab/event_based_segmentation_vcmax?style=social"/>
 * [Slip detection (WACV 2025)](https://github.com/tub-rip/event_slip) <img src="https://img.shields.io/github/stars/tub-rip/event_slip?style=social"/>
 * [Unofficial version of EMSMC (ICCV 2019)](https://github.com/theodorun/Implementation-Event-Based-Motion-Segmentation-by-Motion-Compensation) <img src="https://img.shields.io/github/stars/theodorun/Implementation-Event-Based-Motion-Segmentation-by-Motion-Compensation?style=social"/>
 * [EMSGC: **E**vent-based **M**otion **S**egmentation with Spatio-Temporal **G**raph **C**uts (TNNLS 2021)](https://github.com/HKUST-Aerial-Robotics/EMSGC) <img src="https://img.shields.io/github/stars/HKUST-Aerial-Robotics/EMSGC?style=social"/>
@@ -64,7 +64,7 @@
 ## Visual Odometry and SLAM
 
 ### Rotational motion (3-DOF)
-* [EPBA: **E**vent-based **P**hotometric **B**undle **A**djustment (2025)](https://github.com/tub-rip/epba) <img src="https://img.shields.io/github/stars/tub-rip/epba?style=social"/>
+* [EPBA: **E**vent-based **P**hotometric **B**undle **A**djustment (TPAMI 2025)](https://github.com/tub-rip/epba) <img src="https://img.shields.io/github/stars/tub-rip/epba?style=social"/>
 * [EMBA: **E**vent-based **M**osaicing **B**undle **A**djustment (ECCV 2024)](https://github.com/tub-rip/emba) <img src="https://img.shields.io/github/stars/tub-rip/emba?style=social"/>
 * [CMax-SLAM (TRO 2024)](https://github.com/tub-rip/cmax_slam) <img src="https://img.shields.io/github/stars/tub-rip/cmax_slam?style=social"/>
 * [Event Alignment using Poisson Point Process (ICCV 2021)](https://github.com/pbideau/Event-ST-PPP) <img src="https://img.shields.io/github/stars/pbideau/Event-ST-PPP?style=social"/>
